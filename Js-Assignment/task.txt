@@ -1,0 +1,13 @@
+This assignment is designed to prepare students for real-world MERN Stack
+development. All tasks must be implemented using pure JavaScript and
+executed in the console using: node
+taskManager.js
+
+JavaScript FoundaƟons (Beginner)
+• Create a tasks array to store task objects.
+• Task structure: id, Ɵtle, status (pending/completed).
+• Implement addTask(Ɵtle) with auto-increment id.
+• Implement getAllTasks() using console.table().
+• Implement completeTask(id).
+• Implement deleteTask(id) using filter().
+• Must use arrow funcƟons, map(), filter(), and find().
