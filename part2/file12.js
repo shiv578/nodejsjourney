@@ -1,7 +1,7 @@
 const student={
     name:"John",
     age:20,
-    city:"New York",
+        city:"New York",
 }
 // console.log(student);
 // console.log(student.name);
